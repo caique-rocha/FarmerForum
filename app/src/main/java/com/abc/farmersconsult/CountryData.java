@@ -49,6 +49,17 @@ public class CountryData {
 
     };
 
+    public final static String[] options={
+      "Wet Land", "Dry Land"
+    };
+
+    public final static String[] Qualifications={
+      "BSC in Agriculture","MSC in Agriculture"
+
+    };
+
+
+
     public final static String[]  countryAreaCodes= {
             "93", "355", "213",
             "376", "244", "672", "54", "374", "297", "61", "43", "994", "973",

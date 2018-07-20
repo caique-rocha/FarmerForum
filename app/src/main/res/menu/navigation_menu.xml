@@ -6,30 +6,16 @@
         android:id="@+id/add_new_post"/>
 
     <item
-        android:title="Home"
+        android:title="Subscribe"
         android:id="@+id/nav_home"
         android:icon="@drawable/home"
         />
     <item
-        android:title="Profile"
+        android:title="Unsubscribe"
         android:id="@+id/nav_profile"
         android:icon="@drawable/profile"/>
-    <item
-        android:title="People"
-        android:icon="@drawable/friends"
-        android:id="@+id/nav_people"/>
-    <item
-        android:title="Find People"
-        android:icon="@drawable/find_people"
-        android:id="@+id/nav_find_people"/>
-    <item
-        android:title="Messages"
-        android:id="@+id/nav_messages"
-        android:icon="@drawable/messages"/>
-    <item
-        android:title="Settings"
-        android:id="@+id/nav_settings"
-        android:icon="@drawable/settings"/>
+
+
     <item
         android:title="Log Out"
         android:icon="@drawable/logout"
